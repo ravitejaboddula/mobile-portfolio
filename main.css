@@ -44,10 +44,10 @@ html {
     text-decoration: none;
     display: flex;
     flex-wrap: wrap;
+    gap: 22px;
 }
 
 .navlinksclass a{
-    padding: 20px;
     flex-direction:colomun;
     text-decoration: none;
     font-size: 20px;  
